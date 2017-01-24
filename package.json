@@ -1,0 +1,10 @@
+{
+  "name": "myapp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+  },
+  "dependencies": {
+    "prompt": "~1.0.0"
+  }
+}
